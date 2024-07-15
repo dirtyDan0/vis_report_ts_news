@@ -1,0 +1,13 @@
+*.sh
+*.csv
+*.tgz
+schema/
+others/
+output/
+**/node_modules/
+**/__pycache__
+**/.vscode
+*.pth
+archived/
+other.ipynb
+*.pkl

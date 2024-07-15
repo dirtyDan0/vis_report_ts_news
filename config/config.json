@@ -1,0 +1,10 @@
+{
+  "checkpoints_dir": "/content/drive/MyDrive/final/checkpoints",
+  "output_dir": "/content/drive/MyDrive/final",
+  "device": "gpu",
+  "batch_size": 32,
+  "news_checkpoint_for_mm": 27,
+  "mm_checkpoint": 60,
+  "mm_last_epoch": -1,
+  "patchtst_pretrain_checkpoint": 48
+}
